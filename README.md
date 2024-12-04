@@ -61,8 +61,8 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+ https://github.com/Scratchlearn/crop_production_details
+   cd ur-repo
 2. yarn install
 3. yarn dev
 
